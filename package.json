@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "django": "python manage.py runserver"
+  }
+}
